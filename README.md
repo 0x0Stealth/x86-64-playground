@@ -1,2 +1,2 @@
 # x86-64 Playground
-This repository contains x86-64 assembly implementations of common functions 
+This repository contains my x86-64 assembly practice while learning low-level programming

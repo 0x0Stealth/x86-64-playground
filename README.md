@@ -1,1 +1,1 @@
-# x86-64-playground
+This repository contains x86-64 assembly implementations of common functions 
